@@ -1,0 +1,15 @@
+C:\Users\mhmdj\source\repos\RecursionLab\RecursionLab\bin\Debug\net8.0\RecursionLab.exe
+C:\Users\mhmdj\source\repos\RecursionLab\RecursionLab\bin\Debug\net8.0\RecursionLab.deps.json
+C:\Users\mhmdj\source\repos\RecursionLab\RecursionLab\bin\Debug\net8.0\RecursionLab.runtimeconfig.json
+C:\Users\mhmdj\source\repos\RecursionLab\RecursionLab\bin\Debug\net8.0\RecursionLab.dll
+C:\Users\mhmdj\source\repos\RecursionLab\RecursionLab\bin\Debug\net8.0\RecursionLab.pdb
+C:\Users\mhmdj\source\repos\RecursionLab\RecursionLab\obj\Debug\net8.0\RecursionLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmdj\source\repos\RecursionLab\RecursionLab\obj\Debug\net8.0\RecursionLab.AssemblyInfoInputs.cache
+C:\Users\mhmdj\source\repos\RecursionLab\RecursionLab\obj\Debug\net8.0\RecursionLab.AssemblyInfo.cs
+C:\Users\mhmdj\source\repos\RecursionLab\RecursionLab\obj\Debug\net8.0\RecursionLab.csproj.CoreCompileInputs.cache
+C:\Users\mhmdj\source\repos\RecursionLab\RecursionLab\obj\Debug\net8.0\RecursionLab.sourcelink.json
+C:\Users\mhmdj\source\repos\RecursionLab\RecursionLab\obj\Debug\net8.0\RecursionLab.dll
+C:\Users\mhmdj\source\repos\RecursionLab\RecursionLab\obj\Debug\net8.0\refint\RecursionLab.dll
+C:\Users\mhmdj\source\repos\RecursionLab\RecursionLab\obj\Debug\net8.0\RecursionLab.pdb
+C:\Users\mhmdj\source\repos\RecursionLab\RecursionLab\obj\Debug\net8.0\RecursionLab.genruntimeconfig.cache
+C:\Users\mhmdj\source\repos\RecursionLab\RecursionLab\obj\Debug\net8.0\ref\RecursionLab.dll
